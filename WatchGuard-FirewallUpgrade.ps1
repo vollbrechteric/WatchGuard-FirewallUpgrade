@@ -1,5 +1,5 @@
 #Requires -Version 3.0
-<#Simple PowerShell script for autoupdating WatchGuard firewalls
+<#Simple PowerShell script for triggering a Direct Upgrade from WatchGuard through the web interface.
         - Howto:
         1) Just change your credentials below
         2) Make sure the firewall.txt file exists and contains the path to each firewall,
