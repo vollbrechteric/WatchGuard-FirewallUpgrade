@@ -10,5 +10,5 @@ Simple PowerShell script for autoupdating WatchGuard firewalls
 6) This script have just gotten a few improvments and more can for sure be made along the way ;)</br>
 -- Best RGDS André - Nadox AB - www.nadox.se</br>
 
-
+Archiving this project as this can now all be done through the WatchGuard Cloud.
 
